@@ -1,0 +1,9 @@
+#Script to uninstall Google Chrome, Google Search Assistant, facebook and youtube
+#from your android device
+
+adb devices # lists devices connected with adb bridge on host computer
+adb shell pm list packages # lists all packages installed in android device connected through adb bridge
+adb shell pm uninstall -k --user 0 <package_name> # removes a package
+adb shell cmd package install-existing <package_name> # re-install package which was removed earlier
+
+
