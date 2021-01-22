@@ -1,4 +1,4 @@
-Package, App Name, Alternative FOSS solution
+Package, App Name, Alternative FOSS solution (Downloadable from https://f-droid.org)
 com.google.android.projection.gearhead,android auto,
 com.samsung.android.aremoji,AR Emoji,
 com.samsung.android.app.spage,bixby home,
@@ -48,4 +48,4 @@ com.samsung.android.themestore,Theme Store,
 com.samsung.android.app.watchmanagerstub,Wearable Manager Installer,
 com.samsung.android.app.social,Whats New,
 com.google.android.youtube,youtube,
-com.sec.android.inputmethod, Samsung keyboard,[[hyperlink URL link=https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod display=rkr.simplekeyboard.inputmethod]]
+com.sec.android.inputmethod, Samsung keyboard, rkr.simplekeyboard.inputmethod
