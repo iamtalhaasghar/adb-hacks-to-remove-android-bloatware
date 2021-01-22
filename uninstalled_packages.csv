@@ -1,3 +1,4 @@
+Package, App Name, Alternative FOSS solution
 com.google.android.projection.gearhead,android auto
 com.samsung.android.aremoji,AR Emoji
 com.samsung.android.app.spage,bixby home
@@ -47,3 +48,4 @@ com.samsung.android.themestore,Theme Store
 com.samsung.android.app.watchmanagerstub,Wearable Manager Installer
 com.samsung.android.app.social,Whats New
 com.google.android.youtube,youtube
+com.sec.android.inputmethod, Samsung keyboard, rkr.simplekeyboard.inputmethod
