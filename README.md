@@ -1,4 +1,9 @@
 # adb-hacks-to-remove-android-bloatware
+## Using GUI (No root, GUI based no terminal involved, Easier to do, No PC required)
+1. You'll need to install [Shizuku](https://shizuku.rikka.app/download) and [activate it](https://shizuku.rikka.app/guide/setup/) first.
+2. Install [Canta](https://f-droid.org/en/packages/org.samo_lego.canta).
+
+## Using CLI (No root, Requires a PC and a bit of terminal expertise)
 Remove bloatware from your android device using power of adb.
 
 
